@@ -2,7 +2,7 @@
 
 Current WIP:
 
-[  ] Missing featureset includes:
+[...] Missing featureset includes:
 - Selecting different Lofi Streams
 - Themeing and Coding consistency
 - Mobile Responsive Design required. (Works primarily on desktop)
