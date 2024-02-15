@@ -1,4 +1,4 @@
-# LofiModoro : Lofi Pomodoro Solution to Study to
+# LofiModoro : Lofi Beats / Pomodoro Timer to Study to
 
 Current WIP:
 
